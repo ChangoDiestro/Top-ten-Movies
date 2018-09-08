@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-Top-ten-Movies
-=======
+
 ## Top-ten-Movies
 >>>>>>> romantic
 ## Top-ten-Comedy-Movies
