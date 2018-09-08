@@ -1,17 +1,29 @@
 
+## Top ten documental movies
 
-##Horror movies
+- La ley de herodes
+- Un rincocito
+- El mounstro
+- la Guarida del mounstro
+- Hitler's Horns
+- 120 Days of Sodom
+- Vuela Vuela
+- La lengua de las mariposas
 
-1 - The ring
-2 - The excorcist
-3 - The rit
-4 - El santo VS las momias de guanajuato
-5 - Chucky
-6 - Scream
-7 - The Nurse
-8 -  Annabel
-9 - Freddy VS Jasson
-10 - Jasson y los argonautas
+
+
+## Horror movies
+
+- The ring
+- The excorcist
+- The rit
+- El santo VS las momias de guanajuato
+- Chucky
+- Scream
+- The Nurse
+-  Annabel
+- Freddy VS Jasson
+- Jasson y los argonautas
 
 ## Top-ten-Movies
 
@@ -67,6 +79,4 @@ Top Ten children´s movies
 - Koe No Katachi
 - Neon Genesis Evangelion - The End of Evangelion
 - Ghost In The Shell
-
-
 
