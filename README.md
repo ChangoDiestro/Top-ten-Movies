@@ -19,9 +19,6 @@
 - Vengadores: Infinity War
 - El caballero oscuro. La leyenda renace
 - El precio del poder
-
-## Top Ten Action Movies
-
 -  El caballero oscuro
 -  Vengadores: Infinity War
 -  El caballero oscuro. La leyenda renace
