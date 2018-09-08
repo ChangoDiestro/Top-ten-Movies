@@ -1,4 +1,25 @@
 
+
+## Top Ten porn movies
+
+- Emmanuelle
+- Garganta profunda
+- The Japanese wife next door
+- Ginger en las rocas
+- La abertura de Misty Beethoven
+- Salón Kitty
+- Batman XXX: A Porn Parody
+- Seducción letal
+- No mires para abajo
+- Black Venus
+
+## Top Ten Action Movies
+
+- El caballero oscuro
+- Vengadores: Infinity War
+- El caballero oscuro. La leyenda renace
+- El precio del poder
+
 ## Top Ten Action Movies
 
 -  El caballero oscuro
@@ -12,7 +33,6 @@
 - Logan
 - Marvel Los Vengadores
 
-
 ## Top ten documental movies
 
 - La ley de herodes
@@ -24,8 +44,6 @@
 - Vuela Vuela
 - La lengua de las mariposas
 
-
-
 ## Horror movies
 
 - The ring
@@ -35,11 +53,9 @@
 - Chucky
 - Scream
 - The Nurse
--  Annabel
+- Annabel
 - Freddy VS Jasson
 - Jasson y los argonautas
-
-## Top-ten-Movies
 
 ## Top-ten-Romantic
 
@@ -66,9 +82,7 @@
 - Toy Story 3
 - The Philadelphia Story
 
-
-
-Top Ten children´s movies
+## Top Ten children´s movies
 
 - Toy Story
 - Minions
@@ -81,17 +95,15 @@ Top Ten children´s movies
 - Finding Nemo
 - UP
 
-#Top ten Animes 
+## Top ten Animes 
 
--  Spirited Away
--  Your Name
--  Akira
--  Princess Mononoke
+- Spirited Away
+- Your Name
+- Akira
+- Princess Mononoke
 - Grave of the Fireflies
 - My Neighbor Totoro
 - Howl's Moving Castle
 - Koe No Katachi
 - Neon Genesis Evangelion - The End of Evangelion
 - Ghost In The Shell
-
-
