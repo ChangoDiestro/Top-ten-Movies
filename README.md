@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Top-ten-Movies
+=======
+## Top-ten-Movies
+>>>>>>> romantic
 ## Top-ten-Comedy-Movies
 - Get Out
 - All About Eve 
@@ -10,3 +14,19 @@ Top-ten-Movies
 - La La Land
 - Toy Story 3
 - The Philadelphia Story
+<<<<<<< HEAD
+=======
+
+
+## Top-ten-Romantic 
+- It Happened One Night
+- Casablanca
+- Singin' in the Rain
+- The Big Sick
+- The Adventures of Robin Hood
+- The Philadelphia Story
+- Vertigo 
+- Carol
+- On the Waterfront
+- Roman Holiday.
+>>>>>>> romantic
